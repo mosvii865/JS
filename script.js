@@ -1,4 +1,4 @@
-var imagenes = ["IMG/Malenia.webp", "IMG/MELINA.jpeg", "IMG/QueenMarika.jpg", "IMG/Ranni.jpg", "IMG/Rennala.jpg"];
+var imagenes = ["IMG/1272163.jpg", "IMG/202171318271963_1.jpg", "IMG/seasons.jpg", "IMG/wallpaper.jpg", "IMG/wild.jpg"];
 
 var buttons = document.querySelectorAll("button");
 
